@@ -1,5 +1,5 @@
 {
-    "name": "ikerib/opentbs-bundle",
+    "name": "ikerib/OpenTBSBundle",
     "type": "symfony-bundle",
     "description": "OpenTBS Bundle for Symfony2 - create OpenOffice and Ms Office documents with Symfony",
     "keywords": ["symfony","TBS","OpenTBS", "document", "OpenOffice", "MS Office", "odt", "docx", "xlsx", "pptx"],
